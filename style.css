@@ -1,0 +1,68 @@
+body{
+background-color: rgb(59, 65, 65);
+  background-repeat:no-repeat ;
+  background-size: cover;
+   background-position: center;
+   background-blend-mode: multiply;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background:transparent;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: rgb(253, 251, 251);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background: transparent;
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+}
+h5{
+    color: white;
+text-align: center;
+}
+b{
+    margin-top: 10px;
+    color: white;
+    font-size: xx-large;
+    font-weight: 100;
+    float: left;
+    margin-right: 10px;
+}
+hr{
+    color:white;
+}
+.button {
+  border: none;
+  color: white;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  color: black;
+  border-radius: 15px;
+  margin-left: 650px;
+  margin-top: 30px;
+  width: 195px;
+}
+
+
+
+
+
+
